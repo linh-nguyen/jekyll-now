@@ -7,7 +7,7 @@ title: Week One Begin!
 
 **WHAT'S IN YOUR WAY?** The simple answer: lack of prior-knowledge and time. I have only been exposed to C++ once before and it wasn't much so jumping right into the language felt foreign and strange. Even though Java is much more familiar to me, I haven't worked on Java all summer as my internship in Javascript/HTML/CSS. I've heard about how hard C++ is to learn from friends, however, I'm excited to understand another language. Overall these are more temporary roadblocks as I hope to quickly gain traction and do well. What I fear the most is if I will have the time to commit to all the projects, I'm taking a rather busy schedule this semester that is very reading-heavy. Already I'm feeling the stress of time and struggling to find a good work-life balance, but at the same time I don't want to give up anything in my schedule. I'm doing best to stay on top of things, hopefully everything works out.
 
-**WHAT WILL YOU DO NEXT WEEK?** The upcoming week I plan to briefly go over the material from the last class to refresh my memory for quizzes and get my mind focused. 
-
+**WHAT WILL YOU DO NEXT WEEK?** The upcoming week I plan to briefly go over the material from the last class to refresh my memory for quizzes and get my mind focused. I'll also try to play around with Docker and get comfortable with the applications we have to work with throughout the semester.
 
 **TIP OF THE WEEK?**
+
