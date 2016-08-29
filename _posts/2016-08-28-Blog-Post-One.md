@@ -3,7 +3,11 @@ layout: post
 title: Week One Begin!
 ---
 
-##**What did you do this past week?**
-##**What's in your way?**
-##**What will you do next week?**
-##**Tip if the Week**
+**WHAT DID YOU DO THIS PAST WEEK?** As this was the first week (technically half-week since we started on Wednesday) of classes I didn't expect much work, assuming wrongly that it was syallabus week. Alas, I was silly and forgot that this was CS and CS classes give no slack during the first week of school. OOP was no different, diving quickly into the course material within the first twenty-or-so-minutes. Before starting the class I was well aware that Downing cold-called students during the semester, but I was not prepared for how frequent it was, especially so on the first day. It was a shock and it kept me on edge the whole time as I rehearsed what I would say in my head, or at least tried to when I felt I knew the answer. The class was different from anything I've ever experienced. All the professors I've had lectured the whole class period and would occassionally pose a question to the entire class, waiting silently for the answer or answered themselves when no response came. Instead, Downing cold-called, keeping everyone on the edge of their seat (likely praying not to be called) and directed his questions at one random student, starting a conversation. It was a unique learning experience and highlighted why Downing classes were so well-known by students in the department. Day 1 was over the basics of C++ and shared some comparisons between the langauge and Java. Day 2 was over Collatz Conjecture and cycle length. In both classes everything was taken apart piece-by-piece and explained in great detail, something that I really appreciated and allowed me to digest the material. After class I began to work on set-up for the course, working on getting everything ready for the projects that were hovering just around the corner.
+
+**WHAT'S IN YOUR WAY?** The simple answer: lack of prior-knowledge and time. I have only been exposed to C++ once before and it wasn't much so jumping right into the language felt foreign and strange. Even though Java is much more familiar to me, I haven't worked on Java all summer as my internship in Javascript/HTML/CSS. I've heard about how hard C++ is to learn from friends, however, I'm excited to understand another language. Overall these are more temporary roadblocks as I hope to quickly gain traction and do well. What I fear the most is if I will have the time to commit to all the projects, I'm taking a rather busy schedule this semester that is very reading-heavy. Already I'm feeling the stress of time and struggling to find a good work-life balance, but at the same time I don't want to give up anything in my schedule. I'm doing best to stay on top of things, hopefully everything works out.
+
+**WHAT WILL YOU DO NEXT WEEK?** The upcoming week I plan to briefly go over the material from the last class to refresh my memory and do as best I can on the daily quizes. 
+
+
+**TIP OF THE WEEK?**
