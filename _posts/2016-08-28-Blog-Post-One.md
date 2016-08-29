@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Blog Post #1!
+title: Week One Begin!
 ---
 
-Words
+##**What did you do this past week?**
+##**What's in your way?**
+##**What will you do next week?**
+##**Tip if the Week**
