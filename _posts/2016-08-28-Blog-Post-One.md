@@ -9,5 +9,4 @@ title: Week One Begin!
 
 **WHAT WILL YOU DO NEXT WEEK?** The upcoming week I plan to briefly go over the material from the last class to refresh my memory for quizzes and get my mind focused. I'll also try to play around with Docker and get comfortable with the applications we have to work with throughout the semester.
 
-**TIP OF THE WEEK?**
-
+**PICK/TIP OF THE WEEK?** This week's pick is related to apple's recent security flaw, where clicking unsuspecting spam links in a text would give complete access of the iPhone to hackers. In this day and age where so much important data is stored within our phones, it is terrifying to think that a simple misclick would reveal leave you completely vulnerable. 
