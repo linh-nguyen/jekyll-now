@@ -1,4 +1,3 @@
-2016-09-18-Blog-Post-Four.md
 ---
 layout: post
 title: Week 4!
