@@ -10,4 +10,4 @@ title: Week 8!
 
 **WHAT WILL YOU DO NEXT WEEK?** It would be highly preferable that the project is finished by Tuesday night since I will be away for Grace Hopper from Wednesday - Friday, so we're going to work on finishing the project before then. Besides that there's making the most out of Grace Hopper and doing some more catch-up for all my classes.
 
-**PICK/TIP OF THE WEEK?** 
+**PICK/TIP OF THE WEEK?** Ever have a really long file name you're trying to delete or copy or move that you wish you could shorthand in terminal instead of letting tab complete fill the line in with a long name? Or have multiple files you want to delete in terminal that have similar names? Either way, one cool thing is the use of the wild card character * that you can match with anything. So if you have a file called "abc abbc alkds ksie alks.txt" that you want to delete you could just do $rm abc*. Alternatively, if you have these files you want to delete: hw1, hw2, hw3, etc. You could just do the command $rm hw* and it will remove all files that begin with hw! You can also include the wild card in the middle of something too!
