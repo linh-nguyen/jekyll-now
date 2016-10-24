@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Week 9!
-published: false
 ---
 
 
-**WHAT DID YOU DO THIS PAST WEEK?** 
+**WHAT DID YOU DO THIS PAST WEEK?** Mainly spent the week at the Grace Hopper Conference. The talks and sessions were really cool but not what I expected. I had hoped for the talks to be more inspiring than informative, but the ones I went to were more on the informational side. There were also ones that I couldn't get in to because they were too popular or many that all happened at the same time. Despite not being like what I had hoped, I would still recommend others to go! It was fun, informative, and very worth the missed school days. Also the people you meet and end up talking to can be very inspiring and really cool. 
 
-**WHAT'S IN YOUR WAY?** 
+**WHAT'S IN YOUR WAY?** Missed class days for sure and having enough time to go through everything. I feel like when class comes tomorrow I will feel lost, I'm going to try to catch up and ask friends for notes. Hopefully, I'll be able to quickly and easily get my academic life back on track soon, worried but hopeful.
 
-**WHAT WILL YOU DO NEXT WEEK?** 
+**WHAT WILL YOU DO NEXT WEEK?** Hopefully starting project 4 and starting to wrap up all my catch-up work. I've heard this next project is very time-consuming (on the level of an OS project) so I'm going to have to do my very best to ensure that I have put aside enough time to do it. Going to try to keep myself on track and remember to take care of myself better. I'm working on finding my motivation again so that's a thing. Overall trying to stay as positive as possible! 
 
-**PICK/TIP OF THE WEEK?** 
+**PICK/TIP OF THE WEEK?** One of the talks at GHC I attended was about how to find a good open source projects. I did miss a bit of the beginning of the talk, but I got to the later half so I'll include what I learned from there! Contributing to an open source project doesn't necessary mean you have to work on the code, you can help with other things too. For instance, if you're interested in technical writing you can work on improving documentation for projects; if you're into design you can improve logos or website layouts. When trying to find a good open source project, the speaker suggested looking at how well documented a project is, if they keep track of open issues, and seeing how the community interacts (especially when you someone points out a bug: do they listen or do they write them off?). You want to find a community that is open and that want to help people get involved. The better open-source projects will have mentors to get you started and even better ones will have conferences. Get involved in the iirc/slack will allow you to network and get to know people and learn more about the project. If you want to get recognized in the community, work on and complete the small issues that people put off. If you are unable to do so, just being able to point out where problems are or which part of the source code that is causing the problem is also great! I'll try to see if I can link this presentation in here when they send out the slides from the conference.
