@@ -10,4 +10,4 @@ title: Week 12!
 
 **WHAT WILL YOU DO NEXT WEEK?** Going to wrap up and finish the final project, work on the algorithm assignment, look into starting a side project, and begin planning out how I should start studying for finals. Oh and grading the 312 assignments really early is a goal for me, hopefully by EOD Monday have that done.
 
-**PICK/TIP OF THE WEEK?** Tired of clicking the up button trying to find a command you entered in the commandline sometime earlier? You can do a search of your recent terminal history by typing: ctrl+r and typing in the keyword of what was contained in the command you're trying to find. 
+**PICK/TIP OF THE WEEK?** Tired of clicking the up button trying to find a command you entered in the commandline sometime earlier? You can do a search of your recent terminal history by typing: ctrl+r and typing in the keyeaword of what was contained in the command you're trying to find. Saves time and lets easily find the commands you used the otherday. 
