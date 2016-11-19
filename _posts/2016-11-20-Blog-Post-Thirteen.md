@@ -5,10 +5,10 @@ published: false
 ---
 
 
-**WHAT DID YOU DO THIS PAST WEEK?** 
+**WHAT DID YOU DO THIS PAST WEEK?** This past week my partner and I worked on finishing Life. We finished earlier in the day so no rush at the last minute, so that was great! Other than that finished the second to last algorithms homework, yay! I still have some grading to finish, but I'm aiming to finish it this weekend. In class we went into more depth about virtual methods and it's been interesting learning about it. I enjoy the depth we've been going through all the aspects of C++, I feel like I've learned a lot more and understood more than I would have if I tried to pick up the language myself.
 
-**WHAT'S IN YOUR WAY?** 
+**WHAT'S IN YOUR WAY?** Not much as the schedule is pretty chill for the upcoming week as it'll mainly just be exam prep.
 
-**WHAT WILL YOU DO NEXT WEEK?** 
+**WHAT WILL YOU DO NEXT WEEK?** This upcoming week is Thanksgiving Break! I'm leaving on Tuesday and excited to be back home for a little. Plus delicious homemade food. I don't have any finals, so all my exams are on the week we come back and on the next Monday. OOP and ICT is on Thursday so I'm going to prep for those over the break. Then there's management that Sunday and algorithms on Monday. Dreading how close the exams are but I'm super excited for no finals.
 
 **PICK/TIP OF THE WEEK?** 
