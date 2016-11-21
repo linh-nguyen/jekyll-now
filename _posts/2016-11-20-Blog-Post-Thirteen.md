@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Week 13!
-published: false
 ---
 
 
@@ -11,4 +10,4 @@ published: false
 
 **WHAT WILL YOU DO NEXT WEEK?** This upcoming week is Thanksgiving Break! I'm leaving on Tuesday and excited to be back home for a little. Plus delicious homemade food. I don't have any finals, so all my exams are on the week we come back and on the next Monday. OOP and ICT is on Thursday so I'm going to prep for those over the break. Then there's management that Sunday and algorithms on Monday. Dreading how close the exams are but I'm super excited for no finals.
 
-**PICK/TIP OF THE WEEK?** 
+**PICK/TIP OF THE WEEK?** It sucks when you feel like nothing is going right and all your interviews are going terribly. When this happens it's always nice to know that you aren't the only one and that it's okay to fail. [Rejected.us](http://rejected.us/) has a handful of stories of people who failed at first but kept going and things ended up being okay. For example: "I was rejected from 10 unpaid internships. Now I work at Twitter." or "I was rejected without interview at Dropbox. Escorted out halfway through my Microsoft interview. Now I'm senior eng at Twitter."
