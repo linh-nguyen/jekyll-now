@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Week One!!
-published: true
+title: Week One Begin!!
 ---
 **WHAT ARE YOUR EXPECTATIONS OF THE CLASS?** While some things seem to have changed, I'm expecting it to be similar to how OOP was structured. I expect to learn about how python works and how to approach software development. I've never had any previous experience in Python and I haven't built a web application from top to bottom before so I'm excited for the semester to come!
 
