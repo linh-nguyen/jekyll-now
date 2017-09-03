@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Week 14!
+published: false
 ---
 
 **What I learned:** I've learned a lot more C++ concepts than I thought I would and understand so much more than I would have trying to pick up the language myself. The development tools we used have also been intersting to learn and useful beyond the classroom. Readings is where you'll learn more of the OOP conceptual stuff while in-class learning is more going over the random aspects of C++ and understanding how to use the power C++ gives you. One thing I do wish we did more in the class was talk about the OOP concepts in the reading more and including these concepts a little earlier in the projects. OOP concepts are pretty exciting and the ways you go about thinking of implementation is different from all the classes I've experienced so far. 
