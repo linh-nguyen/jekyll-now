@@ -1,0 +1,17 @@
+---
+layout: post
+title: Week 5!
+published: false
+---
+
+**WHAT ARE YOUR EXPECTATIONS OF THE CLASS?** 
+
+**WHAT DID YOU DO THIS PAST WEEK?** 
+
+**WHAT'S IN YOUR WAY?** 
+
+**WHAT WILL YOU DO NEXT WEEK?** 
+
+**WHAT'S MY EXPERIENCE OF THE CLASS?** 
+
+**PICK/TIP OF THE WEEK?:** 
