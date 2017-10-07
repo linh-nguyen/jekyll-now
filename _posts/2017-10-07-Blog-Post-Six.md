@@ -4,14 +4,12 @@ title: Week 6!
 published: false
 ---
 
-**WHAT ARE YOUR EXPECTATIONS OF THE CLASS?** 
+**WHAT DID YOU DO THIS PAST WEEK?** Worked on another big data project and sorting out what I have to do to catch up. Most of the week was spent at Grace Hopper attending the career fair and going to the panels and talks. I met up with quite a few people I knew from the summer so that was a lot of fun.
 
-**WHAT DID YOU DO THIS PAST WEEK?** 
+**WHAT'S IN YOUR WAY?** Missing Wednesday - Friday is going to be a lot of catch-up, especially when I have two exams this upcoming week. Balancing time, as always, will be the main issue. I need to make sure I stay on track to get everything done.
 
-**WHAT'S IN YOUR WAY?** 
+**WHAT WILL YOU DO NEXT WEEK?** I'll be meeting up with my Game Tech group to work on the project. There's a milestone coming up so I will need to catch-up and contribute for everything I missed. There's a Chemistry exam on Tuesday that I need to study for, I don't remember everything very well so I have a lot of cramming to do. SWE exam is Thursday so I gotta prepare for that too, not sure what to expect though. I think things have changed from when I took OOP because it's multiple choice now.
 
-**WHAT WILL YOU DO NEXT WEEK?** 
-
-**WHAT'S MY EXPERIENCE OF THE CLASS?** 
+**WHAT'S MY EXPERIENCE OF THE CLASS?** I was only there for Monday's class and class has been pretty much the same. Still learning the peculiarities of python. There isn't as much strange details as in C++ though, so it's less confusing than OOP was.
 
 **PICK/TIP OF THE WEEK?:** 
