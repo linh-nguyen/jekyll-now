@@ -12,4 +12,4 @@ published: false
 
 **WHAT'S MY EXPERIENCE OF THE CLASS?** The class experience has been pretty normal and expected, nothing out of the ordinary has happened. Besides the exam structure, the testing experience was similar to how it was in OOP.
 
-**PICK/TIP OF THE WEEK?:** 
+**PICK/TIP OF THE WEEK?:** I recently discovered (repl.it)[https://repl.it], an online compiler that can run your code. It's similar to coderpad.io, but better because it doesn't require payment of any sort. You can choose whatever language you'd like to run and it's an easy way to quickly run a piece of code without having to do extra setup required otherwise.
