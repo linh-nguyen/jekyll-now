@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Week 10!
-published: false
 ---
 
 **WHAT DID YOU DO THIS PAST WEEK?** The Under Armour talk was interesting and super long. It's interesting seeing the different technology stack and approaches different companies take. Registration was this week, it was the first time that things went so smoothly for me. Yay for senior year: every class was open and I was able to get into all the classes I wanted. I'm really excited for next semester!
