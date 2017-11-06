@@ -12,4 +12,4 @@ published: false
 
 **WHAT'S MY EXPERIENCE OF THE CLASS?** Learning about regular expressions has been super useful. It's something I've been meaning to learn about for a while but was always discouraged by how complicated it looked. I wasn't ever able to find an easy to understand guide either so that didn't help. Downing made it easy and simple to understand by going over the main components and then some useful methods.
 
-**PICK/TIP OF THE WEEK?:** I worked on some sorting on the frontend and it's a lot simpler to implement than I thought it would be.
+**PICK/TIP OF THE WEEK?:** After the UA talk and learning some new things about wearable technology, I went to look up more information on wearables. And I found an interesting [article](https://blog.hackster.io/storing-data-in-fabric-without-using-any-electronics-b2fdc0c09699) about how the computer scientists at the University of Washington discovered a way to store data in fabric itself (not by adding wires or sensors to the fabraic, but taking advantage of the magnetic properties of the thread used to make the fabric).
