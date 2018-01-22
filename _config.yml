@@ -3,13 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: "CS373 Fall 2017: Linh Nguyen"
+name: "CS 349 Spring 2018: Linh Nguyen"
 
 # Short bio or description (displayed in the header)
-description: Weekly blog for SWE.
+description: Weekly blog for Contemporary Issues.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://linh-nguyen.github.io/images/as.png
+avatar: 
+#https://linh-nguyen.github.io/images/as.png
 
 #
 # Flags below are optional
