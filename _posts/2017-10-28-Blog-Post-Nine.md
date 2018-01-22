@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 9!
-published: true
+published: false
 ---
 
 **WHAT DID YOU DO THIS PAST WEEK?** IDB2 was due and I had my chemistry exam. We started the project much later than the last and I definitely felt the regrets when I had to miss events happening on Thursday to finish. I feel like there are certain aspects that could have been much cleaner, however, overall we met the bare minimum requirements.
