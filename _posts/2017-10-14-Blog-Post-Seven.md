@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 7!
-published: true
+published: false
 ---
 
 **WHAT DID YOU DO THIS PAST WEEK?** The main event this past week was SWE exam. For whatever reason I froze up during the exam and made stupid mistakes (for example: using bit shift when I could have just used divide and modulus). Other than that the overall routine has been the same.
