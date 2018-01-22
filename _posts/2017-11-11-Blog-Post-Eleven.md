@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 11!
-published: true
+published: false
 ---
 
 **WHAT DID YOU DO THIS PAST WEEK?** Big Data, Game Tech, and SWE projects were all due this past week. The first two went smoothly and were finished quickly. However, SWE was pretty stressful because we n't specfically know where we went wrong from IDB2. It's hard to focus efforts on improving if you don't know exactly where didyou failed. It might seem obvious to the graders, but if you didn't think it was wrong, it's hard to figure things out. When one of my group members asked, we weren't given anything helpful to help us pinpoint what was wrong and was given a quote from the rubric. It would have been nice if we could have gotten some more specific comments. We definitely tried to improve on where we thought we missed points on, but I'm not entirely sure if we focused our efforts in the right places. On a brighter note, I went to see the Journey LIVE performance with the Fifth House Ensemble and that was pretty fun.
