@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 8!
-published: true
+published: false
 ---
 
 **WHAT DID YOU DO THIS PAST WEEK?** This past week was pretty standard. I went to the Goldman Sachs talk on Wednesday and it was a lot less technically focused than the Atlassian talk but not in a bad way. I also went home for the weekend to visit my parents so that was nice.
