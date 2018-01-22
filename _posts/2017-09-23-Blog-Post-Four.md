@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 4!
-published: true
+published: false
 ---
 **WHAT DID YOU DO THIS PAST WEEK?** The big events last week were my chemistry exam and onsite. I should have studied more and went to the review, but overall the exam went okay. My onsite was in Seattle so I stayed most of the weekend to explore the city. The vibes of Austin and Seattle are pretty similar, though Seattle has much better weather. So far Austin or Seattle are front-runners for where I would want to go for full-time. 
 
