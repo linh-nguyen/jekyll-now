@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Final Week!
-published: true
+published: false
 ---
 
 **THE EXPERIENCE:** The end of the semester is growing closer and closer and I can't wait for it to be over. SWE has been an experience and I've learned a lot. My biggest regret is not waiting another semester to take it, I feel like I couldn't do as many interviews as I otherwise would have because of quizzes and missing half a week for Grace Hopper. I have learned python in more depth than I would have ever had on my own and learning all these small details is definitely something I feel is worthwhile about classes Downing teaches. The structure of the class, in terms of how exams work, has changed since I last took OOP and I like the current structure more. It's nice to quickly see how you are doing and be able to tell how far you are in the coding section of the exams. I also like how the projects are built to cover an entire stack, both the front and back-ends as well as the setup required to create a website. I feel like this is very unique to SWE and no other class I have taken at UT has allowed me to get such view of the process. My internship this past summer was kind of fullstack but didn't have as much breadth as the SWE setup was. However, there were times when the extra setup felt a lot like busy work and got annoying (Collatz especially). I understood that all the setup was to help make the project setup resemble the industry, however, I felt like some of this meaning was lost since the scope of the project was so small.
