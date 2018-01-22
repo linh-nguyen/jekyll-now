@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 2!
-published: true
+published: false
 ---
 
 **WHAT DID YOU DO THIS PAST WEEK?** Trying to settle into school again, getting a taste of lacking sleep, regretting not starting on work earlier, and regretting not going to the football game. I spent a couple hours writing down all my due dates/exams for classes and putting them on my calendar. I'm determined to stay on track and get organized this semester. I started organzing my inbox after realizing that too many emails were getting routed to the wrong folders. Still trying to figure out if I want to do more full-time interviews and risk missing more class days. I already know I'm missing 3 SWE classes, one for an interview and two for Grace Hopper.
