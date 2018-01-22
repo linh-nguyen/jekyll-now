@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 12!
-published: true
+published: false
 ---
 
 **WHAT DID YOU DO THIS PAST WEEK?** Finished the Big Data assignment pretty early on Monday so I didn't have to stay up until 4am again. I had my 4th chemistry test, it went alright. Saw Thor: Ragnarok during the weekend and it was pretty good. I went with friends but I feel like I missed some of the Marvel jokes since I haven't seen all of the previous movies.
