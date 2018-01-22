@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 5!
-published: true
+published: false
 ---
 
 **WHAT DID YOU DO THIS PAST WEEK?** Generally my schedule this week was similar to last week's, the main difference being that the first SWE project was due Thursday night. We had a last minute change in our project idea, which was slightly stressful, but I'm glad that we did because there were too many problems we were having with the APIs we were planning on using for our travel website. Now we're a national parks database! I think our website meets all the requirements, the only weird thing that we haven't figured out is why our domain from namecheap occassionally points back to the ghost/placeholder website.
