@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 6!
-published: true
+published: false
 ---
 
 **WHAT DID YOU DO THIS PAST WEEK?** Worked on another big data project and sorting out what I have to do to catch up. Most of the week was spent at Grace Hopper attending the career fair and going to the panels and talks. I met up with quite a few people I knew from the summer so that was a lot of fun.
