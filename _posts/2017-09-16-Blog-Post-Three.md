@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 3!
-published: true
+published: false
 ---
 
 **WHAT DID YOU DO THIS PAST WEEK?** I was able to get caught up on most of my work last week and finished both the SWE and Big Data projects. I'm not as ahead as I would want to be, but at least I'm not behind. The pomodoro technique seems to be working better than my old schedule so I'm going to keep going with it.
