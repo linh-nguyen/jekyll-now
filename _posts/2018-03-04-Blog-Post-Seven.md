@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Technology and Security
-published: false
+published: true
 ---
 Write a short (250-500 word) blog post discussing one aspect of governmental security and how technology either hinders or aids this effort. Also consider how this technology affects the relationship between government and its civilian population and what core understandings of this technology that the civilian population should have. Feel free to discuss technologies that have had a positive impact on the relationship between government and civilian population!
 
-
-### MLA Citations
+The advent of technology has greatly affected how we interact with the world around us. The government has also changed quite a bit since the technology boom. The boom has had both positive and negative affects on governmental security. While information and communication is now much faster than ever, it can be much harder to track individuals if they are doing business strictly online and cover their tracks well. It can also be much harder for the government to watch everything online because it can raise the alarm in the general public if they feel the government is watching too much. However, as more and more things move online, the government will require much more of an online presence in order to ensure entire protection. But if the general public does not agree, then this will become a problem. The question is raised how much privacy will we give up for security. If all other menaces against our government starts transferring more and more online, we would need to give up more security in order to be able to protect ourselves. However, if this continues and the general public feels like the government is overstepping their bounds, they might revolt. And that could go pretty badly. It might end up being that the government has to be covert about it and pass the law in order for the general public to not be alarmed. However, it is possible that after a certain point the general public will become more normalized to all the government watching and things will be okay.
 
