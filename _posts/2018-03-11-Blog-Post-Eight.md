@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Technology and Warfare
-published: false
+published: true
 ---
 
+Last year emails between the United Arab Emirates (UAE) and the US were threatened to be leaked by a hacker group called Global Leaks. The emails were taken from the abassador of the UAE to the US and were intended to "reveal how millions of dollars were used to hurt the reputation of American allies and cause policy changes." When this information was leaked it caused to an increase of "tensions among Persian Gulf allies by suggesting an alignment between UAE and Israel." It also led to the FBI coming in to help pinpoint how the cyberattack was started.
 
-Write a short (250-500 word) blog post discussing a recent incident involving either cyberwarfare or remote warfare. Describe what happened during the conflict, the parties involved, their goals, and the outcome of the event. Also take a litle time to discuss your personal reaction to the events and any ethical issues raised by the incident.
-
-
+Technology has changed so much about how we communicate in both the means in which we do so and the speed. Now that everything has been shifted online, it's more important than ever to protect our data. Any weaknesses will be exploited by groups to further their agenda by revealing secret information to the world. It's amazing how one group, through revealing a few emails, can cause countries to become hyperaware and distrust those around them. It also makes one think, as an engineer, even if we work on something as simple as email, it is vital that everything is as secure as possible when it is used by leaders of the world as well who's emails have the power to disrupt alliances and start wars. In other ways though, I think this can serve as a reminder to our leaders that they have to be careful and considerate of what they do. Hackers always have a way so no secret will remain a secret that long if someone has a will to reveal it. 
 
 ### MLA Citations
 
