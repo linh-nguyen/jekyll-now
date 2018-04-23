@@ -1,10 +1,7 @@
 ---
 layout: post
-title: The Role of AI
+title: Building a Better World
 published: true
 ---
 
-Write a short (250-500 word) blog post discussing what "building a better world" means to you. You should discuss your overall philosophy and approach to this, as well as concrete examples of how your personal thinking, your personal behavior, and a community you're part of each contribute to this better world. Be prepared to share with the class during discussion.
-
-
-### Citations
+Building a better world would require everyone to be kinder and more understanding. Instead of quickly jumping to conclusions and getting angry at someone, give them the benefit of the doubt. Perhaps they've had a bad day, or something happened earlier that made them feel that way. It also means everyone needs to be aware of when they are lashing out and admit to it and apologize when they explode at someone else because having a bad day does not mean a person can be rude to others. There's no way for the would to immediately become a better world in one day, it's the little actions that count. I would say not to give up and think that one action won't change anything because an action can seem small to you but big to someone else. One example could be each student in UTCS getting involved in a nonprofit project and helping to build software for a nonprofit that wouldn't otherwise be able to afford. Or volunteering to help encourage younger students to see what computer science is like and get involved in the community. If everyone just did this one step, I do feel like there is more good in the world. It's hard to be, but if one can learn how to be a little less selfish, a little more self-aware, and a little more willing to help those around them, the world would become a much better place. It also means teaching these lessons to the younger generations so they can keep the progress of good that we already have and improve upon it.
